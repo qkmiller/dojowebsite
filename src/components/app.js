@@ -5,7 +5,7 @@ import Header from './header';
 
 // Code-splitting is automated for `routes` directory
 import Home from '../routes/home';
-import Profile from '../routes/profile';
+import Profile from '../routes/events';
 
 const App = () => (
 	<div id="app">
