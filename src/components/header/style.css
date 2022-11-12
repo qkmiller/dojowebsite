@@ -3,9 +3,9 @@
 	left: 0;
 	top: 0;
 	width: 100%;
-	height: 48px;
+	height: 42px;
 	padding: 0;
-	background: #171219;
+	background: #0a090d;
 	box-shadow: 0 0 5px rgba(33, 131, 128, 0.1);
 	z-index: 50;
 }
@@ -14,7 +14,7 @@
 	float: left;
 	margin: 0;
 	padding: 0 15px;
-	font-size: 18px;
+	font-size: 12px;
 	line-height: 48px;
 	font-weight: 400;
 	color: #f6f8ff;
@@ -28,6 +28,7 @@
 .header nav a {
 	display: inline-block;
 	height: 48px;
+	font-size: 12px;
 	line-height: 48px;
 	padding: 0 15px;
 	min-width: 50px;

@@ -1,5 +1,17 @@
 .servers {
-	padding: 48px 20px;
+	padding: 48px 15% 0px 15%;
 	min-height: 100%;
 	width: 100%;
+}
+
+.serverlinks {
+	height: 100%;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	font-family: 'Roboto Mono', arial, sans-serif;
+	font-weight: 400;
+	color: #FF9000;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }

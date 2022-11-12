@@ -1,12 +1,15 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono&subset=latin");
-html, body {
+html, body{
 	height: 100%;
 	width: 100%;
 	padding: 0;
 	margin: 0;
-	background: #171219;
+	background: #0a090d;
+	background-image: url(../assets/627989.jpg);
+	background-blend-mode: multiply;
 	font-family: 'Roboto Mono', arial, sans-serif;
 	font-weight: 400;
+	text-align: justify;
 	color: #FF9000;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
