@@ -1,4 +1,7 @@
 .servers {
+	background-color: #0a090d;
+	background-image: url(../../assets/627986.jpg);
+	background-blend-mode: multiply;
 	padding: 48px 15% 0px 15%;
 	min-height: 100%;
 	width: 100%;
