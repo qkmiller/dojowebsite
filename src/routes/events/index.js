@@ -60,7 +60,7 @@ const Events = () => (
 			<li>trinity</li>
 			<li>usedandabused</li>
 			<li>wicked</li>
-</ul>
+		</ul>
 		<h2>Etiquette</h2>
 		<p>Everyone is expected to act in a professional manner. Any rule breakers will be banned from the Quake Servers as well as the Discord</p>
 	</div>
