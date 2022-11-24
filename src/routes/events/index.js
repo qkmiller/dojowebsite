@@ -9,7 +9,8 @@ const Events = () => (
 		<h1>Info</h1>
 		<p>The Tournament will be held on the weekend of the 26th and extend until all matches are complete.</p>
 		<p>Tournament will be double elimination, with seeding according to belt/elo. Best of Threes will be standard until the Semi-final Best of Fives. The Grand Finals will be Best Of Seven.</p> 
-		<p>For Best Of Threes: The first map will be chosen by the coinflip winner, second by the opponent. The third map will be randomized, and the lower seed will get server preference.</p>
+		<p>For Best Of Threes: The first map will be chosen by the coinflip winner, second by the opponent. The third map will be randomized</p>
+		<p>Each player can agree to play on their own servers respectively for each match, and then coinflip for the final server location <b>otherwise,</b> a middle server will be picked by admins.</p>
 		<h2>Map Pick Rules</h2>
 		<p>Each player will pick a map for their best of three set with their opponent. As you move through the tournament you will </p>
 		<p>Once players make it to the semi-finals, they will be able to pick any previously picked maps, as well as be given 3 bans for the tiebreaker pool.</p>
@@ -40,6 +41,7 @@ const Events = () => (
 			<li>dismemberment</li>
 			<li>elder</li>
 			<li>furriousheights</li>
+			<li>fuse</li>
 			<li>hektik</li>
 			<li>houseofdecay</li>
 			<li>lostworld</li>
