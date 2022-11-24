@@ -1,6 +1,8 @@
 .home {
 	background-color: #0a090de1;
 	background-image: url(../../assets/627989.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 	background-blend-mode: multiply;
 	background-attachment: fixed;
 	padding: 48px 15% 0px 15%;

@@ -1,10 +1,12 @@
 .events {
 	background-color: #0a090de1;
 	background-image: url(../../assets/627987.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 	background-blend-mode: multiply;
 	background-attachment: fixed;
 	text-align: center;
-	padding: 48px 15% 0px 15%;
+	padding: 48px 15% 1px 15%;
 	min-height: 100%;
 	width: 100%;
 }
