@@ -12,7 +12,7 @@ const Events = () => (
 		<p>For Best Of Threes: The first map will be chosen by the coinflip winner, second by the opponent. The third map will be randomized</p>
 		<p>Each player can agree to play on their own servers respectively for each match, and then coinflip for the final server location <b>otherwise,</b> a middle server will be picked by admins.</p>
 		<h2>Map Pick Rules</h2>
-		<p>Each player will pick a map for their best of three set with their opponent. As you move through the tournament you will </p>
+		<p>Each player will pick a map for their best of three set with their opponent. As you move through the tournament you will not be able to pick the map you used to win the set, again in the tournament.</p>
 		<p>Once players make it to the semi-finals, they will be able to pick any previously picked maps, as well as be given 3 bans for the tiebreaker pool.</p>
 		<p>The first player to ban will be chosen via a coin toss.</p>
 		<h2><u>TIE BREAKER MAP POOL</u></h2>
