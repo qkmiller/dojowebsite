@@ -5,7 +5,6 @@ const Events = () => (
 	<div class={style.events}>
 		<h1>The Dojo's Beginner's 2022 Fall Cup</h1>
 		<p>Sign up Now!: <a href="https://challonge.com/tournaments/signup/KjDBg8GecY#/signup/aszw2ltb9a">Click Here</a></p>
-		
 		<h1>Info</h1>
 		<p>The Tournament will be held on the weekend of the 26th and extend until all matches are complete.</p>
 		<p>Tournament will be double elimination, with seeding according to belt/elo. Best of Threes will be standard until the Semi-final Best of Fives. The Grand Finals will be Best Of Seven.</p> 
